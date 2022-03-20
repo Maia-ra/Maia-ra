@@ -1,4 +1,4 @@
-#### Olá sou Maiara Rodrigues, técnica de TI e estudante de Sistemas de Informanção
+#### Olá sou Maiara Rodrigues, técnica de TI e estudante de Sistemas de Informanção  :girl::computer:
 
 <div align="center">
   <a href="https://github.com/maia-ra">
