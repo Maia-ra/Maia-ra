@@ -1,4 +1,5 @@
-#### Olá sou Maiara Rodrigues, técnica de TI e estudante de Sistemas de Informanção  :girl::computer:
+## Olá sou Maiara, técnica de TI e estudante de Sistemas de Informanção :computer:
+Apaixonada por tecnologia e atualmente estudando JAVA
 
 <div align="center">
   <a href="https://github.com/maia-ra">
@@ -16,4 +17,3 @@
   <a href = "mailto:maiara.rodriguesj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_black"></a>
   <a href="https://www.linkedin.com/in/maiara-rodrigues-b214511a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
