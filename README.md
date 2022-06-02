@@ -10,6 +10,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Maia-ra-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <i class="devicon-javascript-plain colored"></i>
 </div>
   
   ##
