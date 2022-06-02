@@ -1,6 +1,6 @@
-### Hello, Devs!!
-## Sou Maiara, técnica de TI e estudante de Sistemas de Informanção :computer:
-Apaixonada por tecnologia e atualmente estudando JAVA
+## Hello, Devs!! Sou Maiara, técnica de TI e estudante de Sistemas de Informanção :computer:
+
+### Apaixonada por tecnologia e atualmente estudando JAVA
 
 <div align="center">
   <a href="https://github.com/maia-ra">
