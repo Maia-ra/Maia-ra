@@ -1,6 +1,7 @@
-## Hello, Devs!! Sou Maiara, técnica de TI e estudante de Sistemas de Informanção :computer:
+## Hello, Devs!! 
+## I'm Maiara Rodrigues, Student of Information Systems :computer:
 
-### Apaixonada por tecnologia e atualmente estudando JAVA
+### Passionate about technology and currently studying JAVA
 
 <div align="center">
   <a href="https://github.com/maia-ra">
