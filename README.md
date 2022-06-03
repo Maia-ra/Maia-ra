@@ -1,4 +1,4 @@
-## Hello, Devs!! 
+## Hi, Devs!! 
 ## I'm Maiara Rodrigues, Student of Information Systems :computer:
 
 ### Passionate about technology and currently studying JAVA
