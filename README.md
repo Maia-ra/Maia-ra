@@ -1,47 +1,20 @@
-## Olá, Devs! 👩‍💻  
-### Sou Maiara Rodrigues | Desenvolvedora Front-End 👩‍💻  
-🎓 Formada em Sistemas de Informação | Apaixonada por tecnologia 🌱
+#👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-#### 🚀 Atualmente, estou trabalhando com:
-- **HTML** | **CSS** | **JavaScript** | **React** | **Git**
+# 💫 About Me:
+Sou Maiara Rodrigues de Jesus, desenvolvedora Front-End apaixonada por tecnologia, design e por transformar ideias em soluções reais através do código.<br><br>Aqui você vai encontrar alguns dos meus projetos, estudos e desafios, como o #100DaysOfCode, onde compartilho meu progresso contínuo na jornada de aprendizado.<br><br>Atualmente, estou focada em HTML, CSS, JavaScript e construção de interfaces modernas e acessíveis. Em breve, também trarei projetos com React e outras tecnologias que estou estudando.<br><br>Fique à vontade para explorar, dar sugestões e, claro, se conectar comigo! 🚀
 
----
 
-<div align="center">
-  <a href="https://github.com/maia-ra">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maia-ra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/maia-ra">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maia-ra&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maiara_rodriguesj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maiararodriguesj/) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=maia-ra&theme=rose&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=maia-ra&theme=rose&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maia-ra&theme=rose&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=maia-ra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 **Tecnologias e Ferramentas que estou utilizando**:
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-
----
-
-### 📬 **Vamos nos conectar!**  
-<a href="mailto:maiara.rodriguesj@gmail.com">
-  <img src="https://www.linkedin.com/in/maiararodriguesj/" target="_blank" />
-</a>
-<a href="https://www.linkedin.com/in/maiara-rodrigues-b214511a3/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-</a>
-
----
-
-### 📍 **Sobre Mim**  
-Olá! Sou uma desenvolvedora Front-End apaixonada por criar sites e aplicações web intuitivas e bonitas. Minha jornada na programação começou com Java, mas percebi que minha verdadeira paixão estava no desenvolvimento Front-End, trabalhando com **HTML**, **CSS** e **JavaScript**.  
-
-Atualmente, estou aprendendo a construir interfaces ainda mais poderosas com **React**. Meu foco é sempre em melhorar minhas habilidades e criar experiências incríveis para os usuários.
-
-Estou sempre em busca de novos desafios e oportunidades de aprender e crescer! 💡
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
